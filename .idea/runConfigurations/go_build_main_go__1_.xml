@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="demo-tiktok" />
+    <working_directory value="$PROJECT_DIR$/main" />
+    <kind value="DIRECTORY" />
+    <directory value="$PROJECT_DIR$/main" />
+    <filePath value="$PROJECT_DIR$/main/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
